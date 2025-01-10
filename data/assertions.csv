@@ -1,0 +1,21 @@
+assertion_name,num_occur,Percent from Total
+assertEqual,135,27.95%
+assertAlmostEqual,128,26.50%
+assert_allclose,59,12.22%
+assertIsInstance,38,7.87%
+assertTrue,34,7.04%
+assert_array_almost_equal,32,6.63%
+assert_almost_equal,13,2.69%
+assertRaises,10,2.07%
+assertIn,9,1.86%
+assertIsNotNone,9,1.86%
+assertIsNone,6,1.24%
+assertTupleEqual,2,0.41%
+assertLess,2,0.41%
+assertRaisesRegex,1,0.21%
+assertWarns,1,0.21%
+assertListEqual,1,0.21%
+assertGreater,1,0.21%
+assert_raises,1,0.21%
+assertLogs,1,0.21%
+Total,483,100.00%
